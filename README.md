@@ -1,4 +1,4 @@
-# ReadingList
+# Reading List for Machine Learning
 Reading list for ML (List from AI602. Advanced Deep Learning (KAIST) by professor Sung Ju Hwang (sjhwang82@kaist.ac.kr)  
 
 ## Reading List
